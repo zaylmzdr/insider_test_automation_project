@@ -13,12 +13,12 @@ It verifies that job listings filtered by location and department display correc
 3. Verify visibility of key sections on the Careers page: Locations, Teams, Life at Insider.  
 4. Navigate to the Quality Assurance careers page and:  
    - Click “See all QA jobs”.  
-   - Filter jobs by Location: Istanbul, Turkey and Department: Quality Assurance.  
+   - Filter jobs by Location: Istanbul, Turkiye and Department: Quality Assurance.  
    - Verify filtered job listings appear.  
 5. For each job listing:  
    - Confirm the Position title contains “Quality Assurance”.  
    - Confirm the Department is “Quality Assurance”.  
-   - Confirm the Location is “Istanbul, Turkey”.  
+   - Confirm the Location is “Istanbul, Turkiye”.  
 6. Click “View Role” on a valid job and verify redirection to the Lever application form (URL contains “lever.co”).
 
 ---
